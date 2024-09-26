@@ -1,5 +1,5 @@
-# edoc-echanneling
-![](https://github.com/hshnudr/"C:\Users\samso\OneDrive\Documents\GitHub\MEDICO_doctor_appointment_system\img\mainpage.png")
+
+![]("https://github.com/sam1231-coder/MEDICO_Doctor_Appointment_System/blob/main/img/mainpage.png")
 
 Web app for simplifying doctor appointment bookings
 • Features a user-friendly scheduler, rating system, and ticket generation
